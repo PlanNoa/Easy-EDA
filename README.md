@@ -1,2 +1,2 @@
 # Easy-EDA
-Visualization Tool for Easy Exploratory Data Analysis
+Tool for Easy Exploratory Data Analysis and Visualization
