@@ -1,0 +1,1 @@
+nativefier --name streamQuality "localhost:8501" --platform linux
